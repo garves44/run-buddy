@@ -1,0 +1,50 @@
+/* default style */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Body Style */
+body {
+    color: #39a6b2;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+/* Header Style*/
+header {
+    padding: 20px 35px;
+    background-color: #39a6b2;
+}
+
+/* header h1 style */
+header h1 {
+    font-weight: bold;
+    font-size: 36px;
+    color: #fce138;
+    margin: 0;
+    display: inline;   
+}
+
+/* header a styles */
+header a {
+    text-decoration: none;
+    color: #fce138;
+}
+
+/* header nav style */
+header nav {
+    float: right;
+    margin: 7px 0;
+}
+
+/* header nav ul li styles */
+header nav ul li {
+    display: inline;
+}
+
+/* header nav ul li a style */
+header nav ul li a {
+    margin: 0 30px;
+    font-weight: lighter;
+    font-size: 22px;
+}
