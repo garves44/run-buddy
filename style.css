@@ -81,7 +81,38 @@ footer a {
     color: #024e76;
     border: solid 3px #024e76;
     position: absolute;
-    bottom: 0px;
-    right: 0px;
-
+    bottom: 120px;
+    right: 140px;
+}
+/* <h3> style */
+.hero-form h3 {
+    margin: 0px;
+    font-size: 24px;
+}
+/* <p> style */
+.hero-form p {
+    margin: 5px 0 15px 0;
+}
+/* form-input style */
+.form-input {
+    font-size: larger;
+    border: solid 1px #024e76;
+    display: block;
+    padding: 7px 15px;
+    font-size: 16px;
+    color: #024e76;
+    width: 100%;
+    margin-bottom: 15px;
+}
+/* hero-form label */
+.hero-form label {
+    margin: 0 5px;
+}
+/* hero-form button */
+.hero-form button {
+    background-color: #024e76;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #fce138;
 }
